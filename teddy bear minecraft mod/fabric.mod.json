@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "teddybear",
+  "version": "1.0.0",
+  "name": "Teddy Bear Mod",
+  "description": "Custom teddy bear companions with outfits",
+  "authors": ["You"],
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.teddybear.TeddyBearMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.1",
+    "fabric": "*"
+  }
+}
